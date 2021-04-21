@@ -2,6 +2,6 @@ U-Net architecture is popular for accurate and detailed semantic segmentation es
 
 ## Results
 ```bash
-Training Dice coefficients : 0.9978
-Validation Dice coefficient : 0.9922
+Training Dice coefficients : 
+Validation Dice coefficient : 
 ```
